@@ -1,3 +1,5 @@
+# Denis Sakanovic
+# microLSP evaluation model
 
 def LARGE(value: int, min_: int, max_: int) -> int:
 
